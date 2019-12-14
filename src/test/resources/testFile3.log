@@ -1,0 +1,8 @@
+23:34:50 11.12.2019 [denis] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5474c6c
+23:34:51 11.12.2019 [denis] INFO org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loaded 4 bean definitions from class path resource [applicationContext.xml]
+23:34:51 11.12.2018 [denis] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer#0'
+23:34:51 11.12.2018 [denis1] DEBUG org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'foo.team' in PropertySource 'localProperties' with value of type String
+22:34:51 11.12.2017 [denis1] ERROR org.springframework.core.env.PropertySourcesPropertyResolver - Found key 'foo.email' in PropertySource 'localProperties' with value of type String
+22:34:51 11.12.2017 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myFortune'
+22:34:51 11.12.2017 [main] ERROR org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'MyCoach'
+22:13:51 11.12.2017 [main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myCricketCoach'

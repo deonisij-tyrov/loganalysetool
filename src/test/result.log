@@ -1,0 +1,21 @@
+ERROR | main | 22:13:51 12.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myCricketCoach'
+ERROR | main | 22:34:51 11.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'MyCoach'
+ERROR | main | 22:34:51 12.11.2018 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myFortune'
+2017=2
+2018=1
+main=3
+ERROR=3
+ERROR | main | 22:13:51 12.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myCricketCoach'
+ERROR | main | 22:34:51 11.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'MyCoach'
+DEBUG | main | 22:34:51 12.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myFortune'
+DEBUG | main | 22:34:51 12.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'MyCoach'
+DEBUG | main | 22:34:51 11.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myFortune'
+DEBUG | main | 22:13:51 11.12.2017 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myCricketCoach'
+ERROR | main | 22:34:51 12.11.2018 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myFortune'
+DEBUG | main | 22:34:51 12.11.2018 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'MyCoach'
+DEBUG | main | 22:13:51 12.11.2018 | org.springframework.beans.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'myCricketCoach'
+2017=6
+2018=3
+main=9
+ERROR=3
+DEBUG=6
